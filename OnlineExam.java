@@ -1,9 +1,4 @@
-/**
- *
- * @author DELL
-    /*
- The project should be capable of the following functionalities.
-
+/*
     Login
 
     Update Profile and Password
@@ -16,11 +11,6 @@
 */
 
 
-/**
- *
- * @author DELL
- */
-  
 
 
 import javax.swing.*;  
